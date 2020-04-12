@@ -22,7 +22,7 @@ body{
 }
 
 .heading{
-    padding:50px;
+    padding-top:50px;
 }
 
 .skill-holder{
@@ -35,7 +35,7 @@ background: rgba(221, 221, 221, 0.12);
 }
 
 .skill-logo{
-    height: 128px;
+    height: 96px;
 }
 .skill-text{
     color: #fff;
@@ -43,7 +43,7 @@ background: rgba(221, 221, 221, 0.12);
     text-transform: uppercase;  
 }
 .image-holder{
-    min-height: 135px;
+    min-height: 100px;
 }
 .inspiration{
     font-size: 1.4rem;
